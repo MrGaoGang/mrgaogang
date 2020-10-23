@@ -1,7 +1,7 @@
 ### 你好 👋
 
 - 📫 如何联系我：微信（G426G426）
-- 👯 有问题？[点击这里反馈](https://github.com/MrGaoGang/mrgaogang/issues/new)
+- 👯 欢迎大家在[这里](https://github.com/MrGaoGang/mrgaogang/issues/new)一起讨论技术！
 
 
 ### 我的站点 📍
