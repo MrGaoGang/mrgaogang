@@ -25,7 +25,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="50px" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
 </div>
 
