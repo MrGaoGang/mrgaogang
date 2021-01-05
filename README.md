@@ -3,6 +3,8 @@
 - 📫 如何联系我：微信（G426G426）
 - 👯 如有问题请优先在[罗马广场](https://github.com/MrGaoGang/mrgaogang/issues?q=is%3Aissue)提问，方便自己，方便他人！
 
+  <link rel="stylesheet" href="devicon.min.css">
+
 
 ### 我的站点 📍
 
@@ -16,16 +18,16 @@
 ### 技能 ✅
 
 <div style="display:grid;">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="Android" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="iOS" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" width="50px" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="React" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/android/android-original.svg" alt="Android" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/apple/apple-original.svg" alt="iOS" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" alt="Webpack" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" alt="Typescript" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
 </div>
 
 
