@@ -1,6 +1,6 @@
 ### 你好 👋
 
-- 📫 如何联系我：微信（G426G426）
+- 📫 如何联系我：[点击这里留言](https://github.com/MrGaoGang/mrgaogang.github.io/issues)
 - 👯 如有问题请优先在[罗马广场](https://github.com/MrGaoGang/mrgaogang/issues?q=is%3Aissue)提问，方便自己，方便他人！
 
   <link rel="stylesheet" href="devicon.min.css">
