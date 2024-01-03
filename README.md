@@ -1,6 +1,6 @@
 ### ChatGPT 👋
 
-- [ChatGPT 国内版本](https://ai.metaatem.cn/)
+- [ChatGPT 国内版本; 3.5/4.0/文本生成图像](http://ai.metaatem.cn/)
 
 
 ### 我的站点 📍
